@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitAppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-
+                    Text("Diego Gómez (CR7)")
                 }
             }
         }
