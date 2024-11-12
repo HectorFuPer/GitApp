@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitAppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+                    Text("Mi nombre es: Héctor")
 
                 }
             }
