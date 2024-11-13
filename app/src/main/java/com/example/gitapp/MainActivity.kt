@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Text("Samuel")
                     Text("Mi nombre es: Héctor")
+                    Text("Holiis, soy Nao :)")
 
                 }
             }
