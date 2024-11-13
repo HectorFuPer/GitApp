@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
                     Text("Diego Gómez (CR7)")
                     Text("Samuel")
                     Text("Mi nombre es: Héctor")
+                    Text("Holiis, soy Nao :)")
 
                 }
             }
